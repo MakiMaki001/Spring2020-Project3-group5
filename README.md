@@ -39,17 +39,17 @@ In this project, we created a classification engine for facial emotion recogniti
 		+ LDA: Reached testing accuracy of 53.8% within a time of 2.22 minutes. 
 		+ Random Forest: Reached testing accuracy of 43.0% within a time of 11.24 seconds.
 
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+**Contribution statement**:
 
-*Ziqin Zhao:* Created baseline model, NN model, and put together the final Main notebook. 
+*Ziqin Zhao:* Worked for feature extraction in python, Created Baseline model, Xgboost, Logistics Regression model, Neural Networks model, and improved all of them by cross-validation and final evaluation. She created the Main.ipynb to organize and put all together. Also did model final fitting for the whole train-set and set test prediction structure in model prediction file.
 
-*Jiawei Liu:*
+Marko Konte:* Created the LDA, tested different iterations of NN, and tested all models considered using optimized feature sets. Also created the presentation and the READ.me file 
 
-*Shengham Chen:*
+*Shengham Chen:* Created Random Forest model and improved with Ziqin. 
 
-*Tianning Yu:*
+*Tianning Yu:* Created SVM model, and improved and tested this model . 
 
-*Marko Konte:* Created the LDA, tested different iterations of NN, and tested all models considered using optimized feature sets. Also created the presentation and the READ.me file 
+*Jiawei Liu:* 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
