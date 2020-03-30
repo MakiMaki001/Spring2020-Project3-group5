@@ -41,15 +41,15 @@ In this project, we created a classification engine for facial emotion recogniti
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-*Ziqin Zhao* Created baseline model, NN model, and put together the final Main notebook. 
+*Ziqin Zhao:* Created baseline model, NN model, and put together the final Main notebook. 
 
-*Jiawei Liu*
+*Jiawei Liu:*
 
-*Shengham Chen*
+*Shengham Chen:*
 
-*Tianning Yu*
+*Tianning Yu:*
 
-*Marko Konte* Created the LDA, tested different iterations of NN, and tested all models considered using optimized feature sets. Also created the presentation and the READ.me file 
+*Marko Konte:* Created the LDA, tested different iterations of NN, and tested all models considered using optimized feature sets. Also created the presentation and the READ.me file 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
