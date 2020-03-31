@@ -25,13 +25,13 @@ In this project, we created a classification engine for facial emotion recogniti
 		+ Training Accuracy: 83.8%
 	
 	+ **Advanced:** Neural Network using functions from the keras and tensorflow packages, had the best results of all tested 				models. This type of model takes a collection of inputs which are processed within the hidden layer to find 				useful connection points, before being distributed in the output layer as classification prediction.  
-		+ Test Accuracy: 54.2% 
+		+ Test Accuracy: 53.86% 
 		+ Model Time: 23.49 Minutes. 
 		+ Training Accuracy: 94.60%
 	
 	+ *Other Attempted Advanced Models:*
 		+ Ensemble: The very close second best performer after the Neural Network. This type of model allows for combining 				multiple model results to improve the end classification. In our model we used the Voting method for the 				ensemble model to make the final combination using Logistic Regression, LDA, and SVM Methods.  
-			+ Test accuracy: 54.60
+			+ Test accuracy: 53.48
 			+ Model time: 1 minute 29 seconds
 		+ XGBoost: Reached test accuracy of 49.2% within a time of 32.34 minutes. 
 		+ Logistic Regression: Reached test accuracy of 51.4% within a time of 17 seconds. 
