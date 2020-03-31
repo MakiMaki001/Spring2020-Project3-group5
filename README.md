@@ -41,7 +41,7 @@ In this project, we created a classification engine for facial emotion recogniti
 
 **Contribution statement**:
 
-*Ziqin Zhao:* Worked for feature extraction in python, Created Baseline model, Xgboost, Logistics Regression model, Neural Networks model, and improved all of them by cross-validation and final evaluation. Organized the Main.ipynb submission file and put together the final fitted model for the whole train-set and set test prediction structure in model prediction file.
+*Ziqin Zhao:* Worked for feature extraction in python, Created Baseline model, Xgboost, Logistics Regression model, Neural Networks model, and improved all of them by Gridsearch and Cross-Validation and final evaluation. Organized the Main.ipynb submission file and put together the final fitted model for the whole train-set and set test prediction structure in model prediction file.
 
 Marko Konte:* Created the LDA model, tested different iterations of NN, SVM, XGBoost and tested all models considered using optimized feature sets. Also created the presentation and the READ.me files.
 
