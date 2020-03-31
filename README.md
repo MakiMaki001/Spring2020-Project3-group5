@@ -33,23 +33,23 @@ In this project, we created a classification engine for facial emotion recogniti
 		+ Ensemble: The very close second best performer after the Neural Network. This type of model allows for combining 				multiple model results to improve the end classification. In our model we used the Voting method for the 				ensemble model to make the final combination using Logistic Regression, LDA, and SVM Methods.  
 			+ Test accuracy: 54.60
 			+ Model time: 3.07 Minutes
-		+ XGBoost: Reached test accuracy of 49.2% within a time of 17.76 seconds. 
-		+ Logistic Regression: Reached test accuracy of 51.2% within a timee of 40 seconds. 
-		+ SVM: Reached testing accuracy of 48.4% within a time of 55 seconds. 
-		+ LDA: Reached testing accuracy of 53.8% within a time of 2.22 minutes. 
-		+ Random Forest: Reached testing accuracy of 43.0% within a time of 11.24 seconds.
+		+ XGBoost: Reached test accuracy of 49.2% within a time of 32.34 minutes. 
+		+ Logistic Regression: Reached test accuracy of 51.4% within a time of 17 seconds. 
+		+ SVM: Reached testing accuracy of 48.4% within a time of 19 seconds. 
+		+ LDA: Reached testing accuracy of 53.8% within a time of 58 seconds. 
+		+ Random Forest: Reached testing accuracy of 42.8% within a time of 11.24 seconds.
 
 **Contribution statement**:
 
-*Ziqin Zhao:* Worked for feature extraction in python, Created Baseline model, Xgboost, Logistics Regression model, Neural Networks model, and improved all of them by cross-validation and final evaluation. She created the Main.ipynb to organize and put all together. Also did model final fitting for the whole train-set and set test prediction structure in model prediction file.
+*Ziqin Zhao:* Worked for feature extraction in python, Created Baseline model, Xgboost, Logistics Regression model, Neural Networks model, and improved all of them by cross-validation and final evaluation. Organized the Main.ipynb submission file and put together the final fitted model for the whole train-set and set test prediction structure in model prediction file.
 
-Marko Konte:* Created the LDA, tested different iterations of NN, and tested all models considered using optimized feature sets. Also created the presentation and the READ.me file 
+Marko Konte:* Created the LDA model, tested different iterations of NN, SVM, XGBoost and tested all models considered using optimized feature sets. Also created the presentation and the READ.me files.
 
 *Shengham Chen:* Created Random Forest model and improved with Ziqin. 
 
 *Tianning Yu:* Created SVM model, and improved and tested this model . 
 
-*Jiawei Liu:* 
+*Jiawei Liu:* Presented findings and explained the final advanced model. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
