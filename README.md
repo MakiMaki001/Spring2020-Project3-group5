@@ -45,9 +45,9 @@ In this project, we created a classification engine for facial emotion recogniti
 
 Marko Konte:* Created the LDA model, tested different iterations of NN, SVM, XGBoost and tested all models considered using optimized feature sets. Also created the presentation and the READ.me files.
 
-*Shengham Chen:* Created Random Forest model and improved it with Ziqin. 
+*Shenghan Chen:* Created Random Forest model and improved it with Ziqin. 
 
-*Tianning Yu:* Created SVM model, and improved and tested this model . 
+*Tianning Yu:* Created SVM model, and improved and tested this model. 
 
 *Jiawei Liu:* Presented findings and explained the final advanced model. 
 
