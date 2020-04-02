@@ -21,12 +21,14 @@ In this project, we created a classification engine for facial emotion recogniti
 
 	+ **Baseline:** The gradient boosting function, GBM, was used with 
 		+ Test Accuracy: 38.20%
-		+ Model  Time: 9 minutes.
+		+ Model Fitting Time: 8.6 minutes.
+		+ Model Prediction Time: 0.036s
 		+ Training Accuracy: 83.8%
 	
 	+ **Advanced:** Neural Network using functions from the keras and tensorflow packages, had the best results of all tested 				models. This type of model takes a collection of inputs which are processed within the hidden layer to find 				useful connection points, before being distributed in the output layer as classification prediction.  
 		+ Test Accuracy: 53.86% 
-		+ Model Time: 23.49 Minutes. 
+		+ Model Fitting Time: 11.24 minutes.
+		+ Model Prediction Time: 0.9s
 		+ Training Accuracy: 94.60%
 	
 	+ *Other Attempted Advanced Models:*
